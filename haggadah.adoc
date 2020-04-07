@@ -1,0 +1,51 @@
+:doctype: book
+:icons:  font
+:imagesdir: media/
+:!last-update-label:
+:toc: left
+
+= An Outer Dibblestani Seder
+Daniel M. Drucker <dmd@3e.org>
+{docdate}
+
+////
+Sources:
+
+* *done* The New Union Haggadah, the Central Conference of American Rabbis
+* *TODO* Humanist Modern Version
+* *TODO* Humanist Haggadah, Washington Congregation for Secular Humanistic Judaism
+* *TODO* Velveteen Rabbi's Haggadah, Rabbi Rachel Barenblat
+* *TODO* Workmen's Circle Arbeter Ring, Boston 2011
+* *TODO* David Drucker's
+////
+
+<<<<
+
+
+include::a-introduction.adoc[]
+
+include::b-kadesh.adoc[]
+
+include::c-urchatz.adoc[]
+
+include::d-karpas.adoc[]
+
+include::e-yachatz.adoc[]
+
+include::f-motzi-matzah.adoc[]
+
+include::g-koreh.adoc[]
+
+include::h-maggid.adoc[]
+
+include::i-shulchan-orech.adoc[]
+
+include::j-tzafun.adoc[]
+
+include::k-barech.adoc[]
+
+include::l-hallel.adoc[]
+
+include::m-nirtzah.adoc[]
+
+include::z-endpage.adoc[]
