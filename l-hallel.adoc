@@ -1,6 +1,6 @@
 == Hallel, Psalms of Praise
 
-Leader:: With merriment and song and poem we celebrate the Feast of Freedom.
+One:: With merriment and song and poem we celebrate the Feast of Freedom.
 
 .Who Knows One?
 _to be recited in descending triangular order, e.g. 1, 21, 321, 4321 ..._

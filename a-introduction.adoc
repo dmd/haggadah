@@ -1,6 +1,6 @@
 == Stories and Metaphors
 
-Leader::
+One::
 
 _Why is this seder different from most other seders?_
 +

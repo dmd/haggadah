@@ -1,6 +1,6 @@
 == Maggid, The Narration
 
-Leader:: There are many questions. Now we begin to answer.
+One:: There are many questions. Now we begin to answer.
 
 [verse]
 Our history moves from oppression towards freedom.
@@ -12,14 +12,14 @@ Group:: _We_ were oppressed, and _we_ through perseverance freed ourselves. Had
 we not done so, then we, our children, and our children's children would still
 be oppressed.
 
-Leader:: Therefore, even if all of us were wise, all of us people of
+One:: Therefore, even if all of us were wise, all of us people of
 understanding, all of us learned in every way, it would still be our obligation
 to tell this story of freedom. Moreover, whoever searches deeply into its
 meaning is considered praiseworthy.
 
 Group:: For the story is not yet complete.
 
-Leader:: We have known physical bondage and spiritual servitude. +
+One:: We have known physical bondage and spiritual servitude. +
 We have also been subjected to _social degradation._ 
 For in the eyes of others we were a subject people.
 
@@ -28,7 +28,7 @@ and powerful nation.
 
 _(Go around the table - where did everyone's ancestors come from?)_
 
-Leader:: In an unwelcoming land the people attained great power, but were
+One:: In an unwelcoming land the people attained great power, but were
 unloved for it. And the leaders of the land said "`Look, they have become too
 numerous for us. Let us deal shrewdly with them, lest they increase, and in
 the event of war, join our enemies in fighting against us.`"
@@ -40,7 +40,7 @@ dread them even the more so.
 
 _(All raise their cups of wine.)_
 
-Leader:: Through tenacity and courage, justice prevailed.
+One:: Through tenacity and courage, justice prevailed.
 
 Group:: For more than one enemy has risen against us to destroy us. In every
 generation, in every age, some rise up to plot another's annihilation. But as
@@ -48,7 +48,7 @@ of yet, the goodness of humanity has won out over evil.
 
 _(All replace their cups untasted.)_
 
-A Participant:: What does it mean to _win_ over evil? Though people do evil
+One:: What does it mean to _win_ over evil? Though people do evil
 deeds, every person's life is still precious and deserving of redemption. 
 
 Group:: Though we have ourselves rejoiced to see oppressors overcome, +
@@ -57,7 +57,7 @@ by the slaughter of the foe, +
 as the wine within the cup of joy is lessened +
 when we pour ten drops for the plagues upon humanity.
 
-Leader:: Our rabbis taught:
+One:: Our rabbis taught:
 
 "The sword comes into the world because of justice delayed and justice denied."
 -- Pirkei Avot 5:8
@@ -97,14 +97,14 @@ image::music-dayeinu.jpg[]
 
 === The Four Answers
 
-Leader:: The wise tell us that whoever does not consider well the _meaning_ of
+One:: The wise tell us that whoever does not consider well the _meaning_ of
 what they do in a ritual has not fulfilled the purpose of that ritual.
 +
 Like much of the Passover Seder, the Four Questions are both central and
 disputed; many Jews forget that it is only hundreds, not thousands of years
 old, and that Seders -- like any ritual -- have changed in the telling over
 time. These questions originally were the opposite of what they are here.
-Today, we recite the questions and answers as by rote; originally, they were
+Today, we recite the questions and answers by rote; originally, they were
 given as examples of questions that children should be, through education,
 expected to ask _on their own_, without prompting. The rabbis who first
 described these questions would be horrified, but over hundreds of years,
@@ -140,35 +140,35 @@ waste a single moment when they could be working. And so, slaves eat either
 standing up or squatting on the ground. At our Passover Seder, we mark our
 freedom by eating at length, with special ceremony.
 
-Leader:: The tradition is to say "`Each of us should feel as though they
+One:: The tradition is to say "`Each of us should feel as though they
 themself had gone forth from bondage.`"  This reminds us not to treat history
 as foreign or made-up. It happened to real people, and by imagining it
 happening to us, we understand it better.
 
 Group:: "`It was _we_ who were slaves, _we_ who were strangers.`" 
 
-Leader:: You shall not oppress a stranger, for you know the feelings of the
+One:: You shall not oppress a stranger, for you know the feelings of the
 stranger,
 
 Group:: having yourselves been strangers in an unwelcoming place.
 
-Leader:: When a stranger resides with you in your land, you shall not wrong
+One:: When a stranger resides with you in your land, you shall not wrong
 him. You shall love him as yourself,
 
 Group:: for you were strangers in an unwelcoming place.
 
-Leader:: You shall work to protect the rights of the stranger.
+One:: You shall work to protect the rights of the stranger.
 
 Group:: Always remember that _you_ were a slave.
 
-Leader:: And while we are all free people here, we also say 
+One:: And while we are all free people here, we also say 
 
 Group:: "`No one is free while others are oppressed.`" 
 
 
 _(The wine cups are raised.)_
 
-Leader::
+One::
 
 [verse]
 Therefore, let us rejoice
@@ -184,7 +184,7 @@ image::music-halluyah.jpg[]
 
 === _Kos G'ulah_, The Second Cup--The Cup of Redemption
 
-Leader:: With the second cup of wine we look with hope to the promise of
+One:: With the second cup of wine we look with hope to the promise of
 liberation for all people.
 
 Group:: _We_ will work towards freedom for all.

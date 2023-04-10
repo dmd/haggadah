@@ -1,6 +1,6 @@
 == Karpas, Rebirth and Renewal
 
-Leader:: Pesach is a springtime holiday. The _karpas_ (parsley) reminds us of
+One:: Pesach is a springtime holiday. The _karpas_ (parsley) reminds us of
 springtime and hope. We dip the karpas in salt water because tears taste salty.
 We remember the tears of the oppressed.  And may we never be so comfortable
 that we become complacent and forget the pain of others. May we always be able
@@ -9,9 +9,9 @@ struggles against oppression, no matter where they occur.
 
 Group:: While anyone is oppressed, so am I.
 
-Leader::
+One::
 
-[verse, Song of Songs 2:10-12 & 7:13]
+[verse, Song of Songs 2:10-12 &amp; 7:13]
 ____
 Arise my beloved, my fair one,
 And come away;

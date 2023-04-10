@@ -6,7 +6,7 @@
 
 = An Outer Dibblestani Seder
 Daniel M. Drucker <dmd@3e.org>
-{docdate}
+First Edition 2017 / This Edition {docdate}
 
 ////
 Sources:
