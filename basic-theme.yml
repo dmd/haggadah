@@ -1,0 +1,13 @@
+# i couldn't get this to work when
+# i ran it in a container with latest asciidoctor-pdf
+# i think it needs more font subtypes maybe idk
+#  - dmd 2023
+
+font:
+  catalog:
+    merge: false
+    korinth:
+      normal: korinth-normal.ttf
+      bold: korinth-bold.ttf
+      italic: korinth-italic.ttf
+      
