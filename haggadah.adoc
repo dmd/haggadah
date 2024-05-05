@@ -11,12 +11,12 @@ First Edition 2017 / This Edition {docdate}
 ////
 Sources:
 
-* *done* The New Union Haggadah, the Central Conference of American Rabbis
-* *TODO* Humanist Modern Version
-* *TODO* Humanist Haggadah, Washington Congregation for Secular Humanistic Judaism
-* *TODO* Velveteen Rabbi's Haggadah, Rabbi Rachel Barenblat
-* *TODO* Workmen's Circle Arbeter Ring, Boston 2011
-* *TODO* David Drucker's
+* The New Union Haggadah, the Central Conference of American Rabbis
+* Humanist Modern Version
+* Humanist Haggadah, Washington Congregation for Secular Humanistic Judaism
+* Velveteen Rabbi's Haggadah, Rabbi Rachel Barenblat
+* Workmen's Circle Arbeter Ring, Boston 2011
+* David Drucker's
 ////
 
 <<<<
